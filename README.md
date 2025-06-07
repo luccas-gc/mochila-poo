@@ -1,6 +1,6 @@
 Mochila (POO em Python)
 
-Este é um exercício simples de estudo feito para treinar os conceitos de **Programação Orientada a Objetos (POO)** em Python, com foco em **herança**, **composição** e **encapsulamento**.
+Este é um exercício simples de estudo feito para treinar os conceitos de **Programação Orientada a Objetos (POO)** em Python, com foco em **Herança** e **Assosiação de Classes**.
 ---
 Estrutura do Projeto
 - `main.py`: interface de texto com menu interativo para o usuário.
